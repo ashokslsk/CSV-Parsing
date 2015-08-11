@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Grofers</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_next_monthdata"></string>
+    <string name="title_activity_landing">Landing</string>
+    <string name="title_activity_user_filter">UserFilterActivity</string>
+</resources>

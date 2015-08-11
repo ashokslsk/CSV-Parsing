@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/screentwo"
+        android:orderInCategory="100"
+        android:title="Next Report"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/filters"
+        android:orderInCategory="100"
+        android:title="Filters"
+        app:showAsAction="never" />
+</menu>
